@@ -11,4 +11,9 @@ def rest_of_string(s):
 
 print rest_of_string('audacity')
 
-# This is Shai, adding a comment to see how changes to the file are made using GitHub.
+# This is Shai, adding a comment to see how changes to the file are made
+# using GitHub.
+# Now I'm adding something in Editorial on my iPad, using the Working Copy
+# app to interface with GitHub.
+
+print "Hello, world!"
