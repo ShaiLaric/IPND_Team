@@ -11,4 +11,4 @@ def rest_of_string(s):
 
 print rest_of_string('audacity')
 
-# Add your own code and notes here
+# This is Shai, adding a comment to see how changes to the file are made using GitHub.
