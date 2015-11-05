@@ -1,4 +1,6 @@
-from random import randint	# randint isn't in base Python
+# This is a comment.
+
+from random import randint	
 
 def random_noun():
 	random_num = randint(0,1)
